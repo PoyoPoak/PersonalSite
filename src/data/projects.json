@@ -40,6 +40,16 @@
     "liveDemoUrl": "https://doigetgas.com"
   },
   {
+    "imageSrc": "images/camera-odometer.webp",
+    "title": "Camera Odometer Calculator",
+    "description": "Windows desktop app that calculates a camera's business-use percentage for taxes from photo shutter counts.",
+    "date": "November 2026",
+    "featuredpos": "",
+    "tags": ["Python", "PySide6", "ExifTool", "PyInstaller", "GitHub Actions"],
+    "githubUrl": "https://github.com/PoyoPoak/camera-odometer-calculator",
+    "liveDemoUrl": ""
+  },
+  {
     "imageSrc": "images/mspm-poc.webp",
     "title": "Pace Maker Risk Monitoring POC",
     "description": "Pacemaker risk analysis platform with machine learning risk modeling.",
