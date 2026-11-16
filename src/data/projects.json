@@ -42,12 +42,12 @@
   {
     "imageSrc": "images/camera-odometer.webp",
     "title": "Camera Odometer Calculator",
-    "description": "Windows desktop app that calculates a camera's business-use percentage for taxes from photo shutter counts.",
+    "description": "Calculate a camera's business use percentage for tax purposes.",
     "date": "November 2026",
     "featuredpos": "",
     "tags": ["Python", "PySide6", "ExifTool", "PyInstaller", "GitHub Actions"],
     "githubUrl": "https://github.com/PoyoPoak/camera-odometer-calculator",
-    "liveDemoUrl": ""
+    "liveDemoUrl": "https://github.com/user-attachments/assets/63703770-d5df-4ba7-a436-2fe300ed12ae"
   },
   {
     "imageSrc": "images/mspm-poc.webp",
