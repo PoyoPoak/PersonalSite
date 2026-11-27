@@ -11,13 +11,13 @@ import { SiteFooter } from "@/ui/components/SiteFooter";
 import { SiteNav } from "@/ui/components/SiteNav";
 import { TextArea } from "@/ui/components/TextArea";
 import { TextField } from "@/ui/components/TextField";
-import { FeatherBriefcase } from "@subframe/core";
 import { FeatherChevronDown } from "@subframe/core";
 import { FeatherChevronRight } from "@subframe/core";
 import { FeatherCode } from "@subframe/core";
 import { FeatherDownload } from "@subframe/core";
 import { FeatherFileCode } from "@subframe/core";
 import { FeatherFolder } from "@subframe/core";
+import { FeatherKeyboard } from "@subframe/core";
 import { FeatherMail } from "@subframe/core";
 import { FeatherMap } from "@subframe/core";
 import { FeatherUser } from "@subframe/core";
@@ -292,12 +292,12 @@ function FullStackPortfolio() {
           className="mobile:w-full"
           variant="neutral-secondary"
           size="large"
-          icon={<FeatherBriefcase />}
+          icon={<FeatherKeyboard />}
               onClick={() => {
-              window.location.href = "/full-specs";
+              window.open("https://github.com/PoyoPoak", "_blank", "noopener,noreferrer");
               }}
               >
-          Hiring? Click here
+          Github
               </Button>
             </div>
           </div>
