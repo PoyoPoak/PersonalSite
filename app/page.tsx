@@ -257,7 +257,7 @@ function FullStackPortfolio() {
               </span>
               <span className="whitespace-pre-wrap text-body font-body text-subtext-color">
           {
-            "Specializes in building web applications and automation enabling others to do more. Currently, I'm job searching while developing custom websites and software for businesses as part of my SaaS startup Ka Technology to eventually become full stack."
+            "Specializes in building custom applications and automations enabling others to do more. Currently, I'm job searching while developing custom websites and software for businesses as part of my SaaS startup Ka Technology. I am seeking roles in backend, DevOps, platform, and AI/automation."
           }
               </span>
               <div className="flex items-center gap-2 mobile:h-auto mobile:w-full mobile:flex-none mobile:flex-row mobile:flex-wrap mobile:gap-2">
